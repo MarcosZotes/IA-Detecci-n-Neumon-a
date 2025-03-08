@@ -1,1 +1,1 @@
-# IA-Detecci-n-Neumon-a
+# IA-Detección-Nuemonía
